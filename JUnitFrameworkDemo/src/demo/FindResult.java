@@ -10,6 +10,7 @@ public class FindResult {
 				 
 				 max=arr[i];
 		}
+		System.out.println("jp");
 		return max;
 	}
 	public static boolean isEvenNum(int n)
